@@ -1,0 +1,16 @@
+.offices{
+    width: 75%;
+    margin: auto;
+    max-width: 1082px;
+    margin-top:144px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-container{
+    width: 35px; 
+    height:10px;
+    display: inline-block;
+    position:relative;
+}

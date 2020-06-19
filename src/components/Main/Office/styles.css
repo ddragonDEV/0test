@@ -1,0 +1,49 @@
+.name{
+    color:white;
+    min-height: 55px;
+    background-color:#2D4F83;
+    font-weight: bold;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    padding:20px;
+    padding-right: 40px;
+    text-align: left;
+    justify-content: center;
+}
+
+.office.offline .bottom-layout{
+    background-color:#8B8B8B;
+}
+
+.office.offline .name{
+    color:#8B8B8B;
+    background-color: #E2E2E2;
+}
+
+.waiting{
+    color:white;
+    line-height: 37px;
+    width: 35%;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.bottom-layout{
+    background-color:#00B886; 
+}
+
+.elapsed{
+    color:white;
+    text-align: left;
+    line-height: 37px;
+    width: 65%;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.office{
+    text-align: center;
+    margin:7px;
+}
+
